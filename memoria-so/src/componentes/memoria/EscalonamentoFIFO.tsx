@@ -38,7 +38,7 @@ export function FIFOComponent() {
 
   return (
     <styled.Container>
-      <styled.Title>Escalonamento de Memória FIFO</styled.Title>
+      <styled.Title>Escalonamento de Memória FIFO - vitor rebula e maria eduarda</styled.Title>
       <styled.Label>
         Array de páginas (separe por vírgulas):
         <styled.Input
